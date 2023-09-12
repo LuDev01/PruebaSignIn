@@ -12,7 +12,8 @@
     line-height: 1.75rem;
     font-weight: 600;
     text-align: center;
-    color: #000;
+    color: #db0a0a;
+    font-family: Georgia, 'Times New Roman', Times, serif;
   }
   
   .input-container {
